@@ -16,7 +16,8 @@ void solve()
         cout<<1<<endl;
         return;
     }
-    cout<<ceil((1.0*target)/n)<<endl;
+   ll x=ceil((1.0*target)/n);
+    cout<<x<<endl;
 
 }
 
